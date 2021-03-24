@@ -13,7 +13,7 @@ from itertools import count, islice
 #from datetime import datetime, date, time, timezone
 
 #a linha abaixo é a utilizada para o token do BOT. por colocar no Github irei comentá-la
-#token = "1470146713:AAGwWi_dX4j6RcoQuys8uu-4oiI5g82xLKE"
+#token = gere o seu token
 db_path = "http://dontpad.com/alphabot"
 #ser = serial.Serial('/dev/ttyUSB0', 9600)
 arduino=serial.Serial('COM3', 9600)
